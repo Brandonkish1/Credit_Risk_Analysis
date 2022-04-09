@@ -31,10 +31,12 @@ The accuracy score was 65.3%. The precision for high risk loans was only 1% and 
 
 The accuracy score was 78.8%. The precision for high risk loans was only 4% and recall was 67%.
 
-#### Easy Ensemble AdaBoost
+#### Easy Ensemble 
 ![Ensemble_AdaBoost.png](https://github.com/Brandonkish1/Credit_Risk_Analysis/blob/main/images/Ensemble_AdaBoost.png)
 
 The accuracy score was 92.5%. The precision for high risk loans was only 7% and recall was 91%.
 
 
 ## Summary
+
+The Easy Ensemble model seemed to give the best results. It had the highest accuracy score by far (92% vs. 53%-79%). Also it did the best predicting high risk loans(7% vs 1%-4%). It had the best recall rate (91%) of all the models too (62%-71%).
